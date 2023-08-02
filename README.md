@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikyada&label=Visitors&color=0e75b6&style=flat" alt="ravikyada" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ravijkyada" target="blank"><img src="https://img.shields.io/twitter/follow/ravijkayada?logo=twitter&style=for-the-badge" alt="ravijkyada" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ravijkyada" target="blank"><img src="https://img.shields.io/twitter/follow/ravijkyada?logo=twitter&style=for-the-badge" alt="ravijkyada" /></a> </p>
 
 - 🌱 Working As A **DevOps Engineer In India**
 
