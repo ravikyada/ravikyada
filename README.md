@@ -10,7 +10,7 @@
 
 - 💬 Talks About **AWS, Cloud, CloudNative Tools.**
 
-- 📫 Let's Discuss At **ravikyada.devops@gmail.com**
+<!--- 📫 Let's Discuss At **ravikyada.devops@gmail.com** -->
 
 <h3 align="left">Do Connect with me:</h3>
 <p align="left">
