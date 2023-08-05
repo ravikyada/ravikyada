@@ -1,17 +1,14 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)]
+<!--[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)]-->
+
 <h1 align="center">Hi , I'm Ravi Kyada</h1>
 <h3 align="center">A Cloud Enthusiast DevOps Engineer</h3>
 <img align="right" alt="dork-is-Coding" width="480" src="https://i.gifer.com/IcRz.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikyada&label=Visitors&color=0e75b6&style=flat" alt="ravikyada" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ravijkyada" target="blank"><img src="https://img.shields.io/twitter/follow/ravijkyada?logo=twitter&style=for-the-badge" alt="ravijkyada" /></a> </p>
 
 - 🌱 Working As A **DevOps Engineer In India**
 
 - 📝 I regularly write articles on [hashnode.ravikyada.in](https://hashnode.ravikyada.in/)
 
-- 💬 Talks About **AWS, Cloud, CloudNative Tools;**
+- 💬 Talks About **AWS, Cloud, CloudNative Tools.**
 
 - 📫 Let's Discuss At **ravikyada.devops@gmail.com**
 
@@ -39,7 +36,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikyada&label=Visitors&color=0e75b6&style=flat" alt="ravikyada" /> </p>
+<p align="left"> <a href="https://twitter.com/ravijkyada" target="blank"><img src="https://img.shields.io/twitter/follow/ravijkyada?logo=twitter&style=for-the-badge" alt="ravijkyada" /></a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvikyada&show_icons=true&locale=en&layout=compact" alt="rvikyada" /></p>
 
