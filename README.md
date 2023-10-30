@@ -41,12 +41,12 @@
 <p align="left"> <a href="https://twitter.com/ravijkyada" target="blank"><img src="https://img.shields.io/twitter/follow/ravijkyada?logo=twitter&style=for-the-badge" alt="ravijkyada" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvikyada&show_icons=true&locale=en&layout=compact" alt="rvikyada" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikyada&show_icons=true&locale=en&layout=compact" alt="rvikyada" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rvikyada&show_icons=true&locale=en" alt="rvikyada" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikyada&show_icons=true&locale=en" alt="ravikyada" /></p>
 <p><img align="left" src="https://stackoverflow.com/users/flair/19818809.png" height='100'  alt="profile for Ravi Kyada at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ravi Kyada at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rvikyada&" alt="rvikyada" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikyada&" alt="ravikyada" /></p>
 
 
 
