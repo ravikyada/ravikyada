@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi , I'm Ravi Kyada</h1>
 <h3 align="center">A Cloud Enthusiast DevOps Engineer</h3>
-<img align="right" alt="dork-is-Coding" width="480" src="https://i.gifer.com/IcRz.gif">
 
 - 🌱 Working As A **DevOps Engineer In India**
 
